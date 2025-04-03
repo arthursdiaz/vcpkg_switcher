@@ -16,7 +16,7 @@ Este é um utilitário simples em Python com interface gráfica para alternar en
 ## 📦 Instalação
 1. Clone este repositório:
    ```sh
-   git clone [https://github.com/arthursdiaz/vcpkg-switcher.git](https://github.com/arthursdiaz/vcpkg_switcher.git)
+   git clone https://github.com/arthursdiaz/vcpkg-switcher.git
    cd vcpkg-switcher
    ```
 2. Instale as dependências:
